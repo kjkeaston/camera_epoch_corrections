@@ -1,0 +1,14 @@
+{
+  "name": "camera_epoch_corrections",
+  "version": "1.0.0",
+  "description": "correct camera epoch values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Easton",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.4.1"
+  }
+}
